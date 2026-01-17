@@ -1,27 +1,46 @@
 # FULL STACK FRAMEWORKS LAB MANUAL
 
-**Roll No:** CB.SC.U4CSE23720  
-**Name:** Guru.D  
-**GitHub URL:** https://github.com/Guru006-Dev
+## STUDENT INFORMATION
+
+| Field | Details |
+|-------|--------|
+| **Roll Number** | CB.SC.U4CSE23720 |
+| **Student Name** | Guru.D |
+| **Course Code** | 23CSE461 |
+| **Course Name** | Full Stack Frameworks |
+| **GitHub Profile** | https://github.com/Guru006-Dev |
+| **Project Repository** | https://github.com/Guru006-Dev/react-math-assignments |
+| **Live Application** | https://react-math-assignments.vercel.app/ |
+| **Semester/Year** | 2026 |
 
 ---
 
 ## COURSE INFORMATION
 
-**Course Code:** 23CSE461  
-**Course Name:** FULL STACK FRAMEWORKS
+| Category | Details |
+|----------|----------|
+| **Course Code** | 23CSE461 |
+| **Course Name** | FULL STACK FRAMEWORKS |ok
+| **Department** | Computer Science and Engineering |
+| **Credits** | Lab Course |
 
 ### Course Objectives
-- Web development has become easier with the introduction of frameworks.
-- It has also paved the way for full stack web development.
-- Full-stack developers use frameworks to develop, optimize and maintain websites and other web applications.
-- This course covers some of the important full stack frameworks.
+
+| No. | Objective |
+|-----|----------|
+| 1 | Understand how web development has become easier with the introduction of frameworks |
+| 2 | Learn full stack web development principles and practices |
+| 3 | Develop, optimize and maintain websites using full-stack frameworks |
+| 4 | Master important full stack frameworks for modern web development |
 
 ### Course Outcomes
-- **CO1:** Learn how to develop single page applications (SPAs) efficiently using front-end framework.
-- **CO2:** Learn to use backend frameworks to develop web and mobile applications robustly.
-- **CO3:** Learn to build highly available and scalable internet applications using document databases.
-- **CO4:** Design and develop full stack web projects using front-end, back-end and database frameworks.
+
+| Code | Outcome Description |
+|------|--------------------|
+| **CO1** | Learn how to develop single page applications (SPAs) efficiently using front-end framework |
+| **CO2** | Learn to use backend frameworks to develop web and mobile applications robustly |
+| **CO3** | Learn to build highly available and scalable internet applications using document databases |
+| **CO4** | Design and develop full stack web projects using front-end, back-end and database frameworks |
 
 ---
 
@@ -57,382 +76,17 @@ Mongo DB ecosystem, Importing and Exporting data, Mongo query language, Updating
 
 | Sl.No | Ex.No | Date | Title of the Experiments | Page No. |
 |-------|-------|------|--------------------------|----------|
-| 1 | 1 | | HTML Diet Form Design | 7 |
-| 2 | 2 | | Portfolio Website using HTML, CSS & JS | 9 |
-| 3 | 3 | | Display First N Natural Numbers - ReactJS | 11 |
-| 4 | 4 | | Armstrong Number Checker - ReactJS | 13 |
-| 5 | 5 | | Factorial Calculator - ReactJS | 15 |
-| 6 | 6 | | Greatest of 3 Numbers - ReactJS | 17 |
-| 7 | 7 | | 4-Box Ball Game - ReactJS | 19 |
-| 8 | 8 | | Mathematical Operations (Factorial, Fibonacci, Prime) - ReactJS | 21 |
-| 9 | 9 | | Sum of Digits Calculator - ReactJS | 23 |
-| 10 | 10 | | Question Paper Set Selector (Class & Function) - ReactJS | 25 |
-| 11 | 11 | | Basic Calculator - ReactJS | 27 |
-| 12 | 12 | | Kids Calculator Game - ReactJS | 29 |
+| 1 | 1 | | Mathematical Operations (Factorial, Fibonacci, Prime) - ReactJS | 7 |
+| 2 | 2 | | Sum of Digits Calculator - ReactJS | 9 |
+| 3 | 3 | | Question Paper Set Selector (Class & Function) - ReactJS | 11 |
+| 4 | 4 | | Basic Calculator - ReactJS | 13 |
+| 5 | 5 | | Kids Calculator Game - ReactJS | 15 |
 
 ---
 
 <div style="page-break-after: always;"></div>
 
-## EX.NO: 1 - HTML DIET FORM DESIGN
-
-### AIM
-To design a diet form using HTML and CSS.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/dietform-fsd
-
-### DEPLOYED URL
-https://dietform-fsd.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| index.html | The main HTML file containing the diet form structure |
-| diet_style.css | The CSS file used to style and design the HTML form |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| HTML Forms | Creating input fields for user data collection | index.html |
-| CSS Styling | Designing and beautifying the form interface | diet_style.css |
-| Form Validation | Using HTML5 form validation attributes | index.html |
-| Responsive Design | Making the form mobile-friendly | diet_style.css |
-
-### KEY FEATURES
-- User-friendly diet form interface
-- Input fields for personal details and dietary preferences
-- Responsive design for all devices
-- Clean and modern UI
-
-### OUTPUT
-**Live Demo:** https://dietform-fsd.vercel.app/
-
-### RESULT
-Successfully created a diet form using HTML and CSS with responsive design and modern styling.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 2 - PORTFOLIO WEBSITE
-
-### AIM
-To create a web portfolio using HTML, CSS and JavaScript.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/portfolio-website-fsd
-
-### DEPLOYED URL
-https://portfolio-website-fsd.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| index.html | Main HTML structure of the portfolio website |
-| css/styles.css | CSS file for styling the entire website |
-| js/main.js | JavaScript file for interactive features |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| HTML5 Semantic Elements | Structuring the webpage content | index.html |
-| CSS Flexbox/Grid | Creating responsive layouts | css/styles.css |
-| JavaScript DOM Manipulation | Adding interactivity to the portfolio | js/main.js |
-| CSS Animations | Smooth transitions and effects | css/styles.css |
-
-### KEY FEATURES
-- Professional portfolio layout
-- About section
-- Skills showcase
-- Project gallery
-- Contact form
-- Smooth scrolling navigation
-- Interactive elements using JavaScript
-
-### OUTPUT
-**Live Demo:** https://portfolio-website-fsd.vercel.app/
-
-### RESULT
-Successfully developed a complete portfolio website showcasing web development skills using HTML, CSS, and JavaScript.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 3 - DISPLAY FIRST N NATURAL NUMBERS
-
-### AIM
-Design a ReactJS application which can be used to print the first N natural numbers. (N to be taken from the user)
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/display-natural-numbers
-
-### DEPLOYED URL
-https://display-natural-numbers.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| App.jsx | Main React component with state management |
-| NaturalNumbers.jsx | Component to display the natural numbers |
-| index.css | Styling for the application |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| React useState Hook | Managing the input value and generated numbers | App.jsx |
-| Array Methods | Generating array of natural numbers | NaturalNumbers.jsx |
-| Event Handling | Handling user input and button clicks | App.jsx |
-| Conditional Rendering | Displaying results only when available | App.jsx |
-
-### ALGORITHM
-1. Accept input N from the user
-2. Validate that N is a positive integer
-3. Generate an array from 1 to N
-4. Display the natural numbers in a formatted layout
-
-### KEY FEATURES
-- Input field for entering N
-- Validation for positive integers
-- Dynamic generation of natural numbers
-- Clean display of results
-
-### OUTPUT
-**Live Demo:** https://display-natural-numbers.vercel.app/
-
-### RESULT
-Successfully implemented a ReactJS application to display first N natural numbers based on user input.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 4 - ARMSTRONG NUMBER CHECKER
-
-### AIM
-Implement a ReactJS program to check whether the given number is an Armstrong number or not.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/armstrong-number-checker
-
-### DEPLOYED URL
-https://armstrong-number-checker-indol.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| App.jsx | Main React component with Armstrong checking logic |
-| ArmstrongChecker.jsx | Component containing the checker interface |
-| index.css | Styling for the application |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| React useState Hook | Managing input and result state | App.jsx |
-| Mathematical Operations | Calculating sum of powers of digits | ArmstrongChecker.jsx |
-| String Manipulation | Extracting individual digits from number | ArmstrongChecker.jsx |
-| Conditional Rendering | Showing result with appropriate message | App.jsx |
-
-### ALGORITHM
-1. Accept a number from the user
-2. Calculate the number of digits
-3. Calculate sum of each digit raised to power of number of digits
-4. Compare the sum with original number
-5. Display whether it's an Armstrong number or not
-
-**Example:** 153 = 1³ + 5³ + 3³ = 1 + 125 + 27 = 153 (Armstrong Number)
-
-### KEY FEATURES
-- Input validation
-- Step-by-step calculation display
-- Clear result indication
-- Examples of Armstrong numbers
-
-### OUTPUT
-**Live Demo:** https://armstrong-number-checker-indol.vercel.app/
-
-### RESULT
-Successfully created a ReactJS application to check Armstrong numbers with proper validation and visual feedback.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 5 - FACTORIAL CALCULATOR
-
-### AIM
-Implement a ReactJS program to find out the factorial of a given number.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/factorial-calculator
-
-### DEPLOYED URL
-https://factorial-calculator-alpha.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| App.jsx | Main component with factorial calculation logic |
-| FactorialCalculator.jsx | UI component for the calculator |
-| index.css | Styling for the application |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| React useState Hook | Managing number input and result | App.jsx |
-| Recursive/Iterative Logic | Calculating factorial | FactorialCalculator.jsx |
-| Number Validation | Ensuring valid input (non-negative) | App.jsx |
-| Conditional Rendering | Displaying results and error messages | App.jsx |
-
-### ALGORITHM
-1. Accept a non-negative integer from user
-2. Initialize result as 1
-3. Multiply result by numbers from 2 to N
-4. Display the factorial result
-
-**Formula:** n! = n × (n-1) × (n-2) × ... × 2 × 1
-
-### KEY FEATURES
-- Input validation for non-negative integers
-- Efficient iterative calculation
-- Large number support
-- Clean result display
-
-### OUTPUT
-**Live Demo:** https://factorial-calculator-alpha.vercel.app/
-
-### RESULT
-Successfully implemented a factorial calculator in ReactJS with proper input validation and error handling.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 6 - GREATEST OF 3 NUMBERS
-
-### AIM
-Draft a code to find the greatest of 3 numbers in ReactJS.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/greatest-of-three-numbers
-
-### DEPLOYED URL
-https://greatest-of-three-numbers.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| App.jsx | Main component with comparison logic |
-| GreatestFinder.jsx | Component for input and result display |
-| index.css | Styling for the application |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| React useState Hook | Managing three number inputs and result | App.jsx |
-| Comparison Operators | Finding the maximum value | GreatestFinder.jsx |
-| Math.max() Method | Alternative approach for finding greatest | GreatestFinder.jsx |
-| Form Handling | Managing multiple inputs | App.jsx |
-
-### ALGORITHM
-1. Accept three numbers from the user
-2. Compare the numbers using conditional statements or Math.max()
-3. Determine the greatest number
-4. Display the result
-
-### KEY FEATURES
-- Three input fields for numbers
-- Support for integers and decimals
-- Visual indication of the greatest number
-- Clean and intuitive interface
-
-### OUTPUT
-**Live Demo:** https://greatest-of-three-numbers.vercel.app/
-
-### RESULT
-Successfully created a ReactJS application to find the greatest of three numbers with a user-friendly interface.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 7 - 4-BOX BALL GAME
-
-### AIM
-There are 4 boxes labelled as A, B, C, D. Box A has violet color balls, Box B has orange color balls, Box C has green color balls, Box D has white color balls. Each box is filled with the number of balls which is twice based on the order. The initial value is set by the user. The game checker has 3 choices:
-1. Each box will be filled twice the number of balls
-2. The consecutive boxes are made empty and pushed to the last box
-3. All odd numbered boxes will be pushed into the even number boxes
-
-Display the number of balls with each color across the boxes.
-
-### GITHUB REPOSITORY
-https://github.com/5ud21/4box-question
-
-### DEPLOYED URL
-https://4box-question.vercel.app/
-
-### LIST OF FILE NAMES WITH PURPOSE
-
-| FileName | Purpose |
-|----------|---------|
-| App.jsx | Main component with game logic and state |
-| BoxGame.jsx | Component for displaying boxes and controls |
-| Box.jsx | Individual box component for color display |
-| index.css | Styling for boxes and game interface |
-
-### CONCEPTS USED IN THE APPLICATION
-
-| Concept Name | General Purpose | Code File Where Used |
-|--------------|-----------------|---------------------|
-| React useState Hook | Managing box states and ball counts | App.jsx |
-| Array Manipulation | Updating ball distribution across boxes | BoxGame.jsx |
-| Component Props | Passing data to child components | Box.jsx |
-| Event Handling | Handling choice buttons | App.jsx |
-| Conditional Styling | Color coding boxes based on ball color | Box.jsx |
-
-### ALGORITHM
-
-**Choice 1:** Double all balls
-- Multiply each box count by 2
-
-**Choice 2:** Push consecutive to last
-- Empty boxes in pairs and add to last box
-
-**Choice 3:** Odd to Even
-- Move balls from odd boxes (A, C) to even boxes (B, D)
-
-### KEY FEATURES
-- Visual representation of 4 colored boxes
-- Initial value input
-- Three game choices with buttons
-- Real-time ball count updates
-- Color-coded display
-
-### OUTPUT
-**Live Demo:** https://4box-question.vercel.app/
-
-### RESULT
-Successfully implemented a complex ReactJS game with state management and array manipulation for the 4-box ball game.
-
----
-
-<div style="page-break-after: always;"></div>
-
-## EX.NO: 8 - MATHEMATICAL OPERATIONS (FACTORIAL, FIBONACCI, PRIME)
+## EX.NO: 1 - MATHEMATICAL OPERATIONS (FACTORIAL, FIBONACCI, PRIME)
 
 ### AIM
 Create a ReactJS application to perform three mathematical operations:
@@ -441,7 +95,10 @@ Create a ReactJS application to perform three mathematical operations:
 - Check if a number is prime
 
 ### GITHUB REPOSITORY
-https://github.com/Guru006-Dev/react-assignments
+https://github.com/Guru006-Dev/react-math-assignments
+
+### DEPLOYED URL
+https://react-math-assignments.vercel.app/question-a
 
 ### PROJECT LOCATION
 `c:\Users\Guru\Desktop\Full Stack\React_project`
@@ -502,11 +159,21 @@ https://github.com/Guru006-Dev/react-assignments
 - Clear result display with labels
 - Handles edge cases (negative, zero, etc.)
 
-### OUTPUT SCREENSHOT
-Results displayed in formatted boxes:
-- Factorial: n! = result
-- Fibonacci: First n terms shown as comma-separated
-- Prime Check: Boolean result with ✓ or ✗
+### OUTPUT FORMAT
+
+| Operation | Output Display |
+|-----------|----------------|
+| **Factorial** | n! = result (e.g., 5! = 120) |
+| **Fibonacci** | First n terms as comma-separated values |
+| **Prime Check** | Boolean result with ✓ (Prime) or ✗ (Not Prime) |
+
+### TEST CASES
+
+| Input | Factorial | Fibonacci (First n) | Is Prime? |
+|-------|-----------|---------------------|----------|
+| 5 | 120 | 0, 1, 1, 2, 3 | ✓ Yes |
+| 7 | 5040 | 0, 1, 1, 2, 3, 5, 8 | ✓ Yes |
+| 10 | 3628800 | 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 | ✗ No |
 
 ### RESULT
 Successfully implemented a comprehensive mathematical operations component in ReactJS demonstrating factorial, Fibonacci, and prime number algorithms.
@@ -515,13 +182,16 @@ Successfully implemented a comprehensive mathematical operations component in Re
 
 <div style="page-break-after: always;"></div>
 
-## EX.NO: 9 - SUM OF DIGITS CALCULATOR
+## EX.NO: 2 - SUM OF DIGITS CALCULATOR
 
 ### AIM
 Read a number and provide the sum of all its digits.
 
 ### GITHUB REPOSITORY
-https://github.com/Guru006-Dev/react-assignments
+https://github.com/Guru006-Dev/react-math-assignments
+
+### DEPLOYED URL
+https://react-math-assignments.vercel.app/question-b
 
 ### PROJECT LOCATION
 `c:\Users\Guru\Desktop\Full Stack\React_project`
@@ -568,11 +238,24 @@ Result: 15
 ```
 
 ### KEY FEATURES
-- Accepts any integer (positive or negative)
-- Shows breakdown of individual digits
-- Displays calculation formula
-- Example cards for reference
-- Visual representation of addition
+
+| Feature | Description |
+|---------|------------|
+| **Input Support** | Accepts any integer (positive or negative) |
+| **Digit Breakdown** | Shows individual digits separated by + |
+| **Formula Display** | Visual calculation formula |
+| **Examples** | Reference cards with sample calculations |
+| **Visual Addition** | Clear step-by-step addition representation |
+
+### TEST CASES
+
+| Input Number | Digits | Sum |
+|--------------|--------|-----|
+| 123 | 1 + 2 + 3 | 6 |
+| 9876 | 9 + 8 + 7 + 6 | 30 |
+| 555 | 5 + 5 + 5 | 15 |
+| 12345 | 1 + 2 + 3 + 4 + 5 | 15 |
+| -456 | 4 + 5 + 6 | 15 |
 
 ### OUTPUT FORMAT
 ```
@@ -589,7 +272,7 @@ Successfully created a sum of digits calculator with visual breakdown and clear 
 
 <div style="page-break-after: always;"></div>
 
-## EX.NO: 10 - QUESTION PAPER SET SELECTOR
+## EX.NO: 3 - QUESTION PAPER SET SELECTOR
 
 ### AIM
 Create a ReactJS application to determine question paper set based on roll number:
@@ -599,7 +282,10 @@ Create a ReactJS application to determine question paper set based on roll numbe
 Implement using both **Class Component** and **Function Component**.
 
 ### GITHUB REPOSITORY
-https://github.com/Guru006-Dev/react-assignments
+https://github.com/Guru006-Dev/react-math-assignments
+
+### DEPLOYED URL
+https://react-math-assignments.vercel.app/question-c
 
 ### PROJECT LOCATION
 `c:\Users\Guru\Desktop\Full Stack\React_project`
@@ -667,21 +353,38 @@ class QuestionCClass extends React.Component {
 ```
 
 ### KEY FEATURES
-- Side-by-side comparison of both component types
-- Identical functionality with different syntax
-- Visual distinction between implementations
-- Clear set assignment display
-- Input validation
+
+| Feature | Description |
+|---------|------------|
+| **Dual Implementation** | Side-by-side comparison of function and class components |
+| **Identical Logic** | Same functionality with different syntax approaches |
+| **Visual Distinction** | Different color schemes for each component type |
+| **Set Assignment** | Clear display of assigned question paper set |
+| **Input Validation** | Ensures valid roll number entry |
+
+### TEST CASES
+
+| Roll Number | Type | Assigned Set |
+|-------------|------|-------------|
+| 1 | Odd | Set 1 |
+| 2 | Even | Set 2 |
+| 7 | Odd | Set 1 |
+| 10 | Even | Set 2 |
+| 23 | Odd | Set 1 |
+| 48 | Even | Set 2 |
 
 ### COMPARISON: FUNCTION VS CLASS COMPONENTS
 
 | Aspect | Function Component | Class Component |
 |--------|-------------------|-----------------|
-| Syntax | Simple, concise | More verbose |
-| State | useState Hook | this.state, this.setState() |
-| Lifecycle | useEffect Hook | Lifecycle methods |
-| this binding | Not needed | Required for methods |
-| Modern approach | ✓ Recommended | Legacy support |
+| **Syntax** | Simple, concise | More verbose |
+| **State Management** | useState Hook | this.state, this.setState() |
+| **Lifecycle** | useEffect Hook | componentDidMount, etc. |
+| **this Binding** | ❌ Not needed | ✅ Required for methods |
+| **Code Length** | Shorter | Longer |
+| **Modern Standard** | ✅ Recommended (2023+) | ⚠️ Legacy support |
+| **Performance** | Slightly Better | Standard |
+| **Learning Curve** | Easier | Moderate |
 
 ### RESULT
 Successfully demonstrated both function and class component implementations for the same functionality, highlighting the evolution of React development patterns.
@@ -690,13 +393,16 @@ Successfully demonstrated both function and class component implementations for 
 
 <div style="page-break-after: always;"></div>
 
-## EX.NO: 11 - BASIC CALCULATOR
+## EX.NO: 4 - BASIC CALCULATOR
 
 ### AIM
 Create a fully functional calculator program using ReactJS with all basic arithmetic operations.
 
 ### GITHUB REPOSITORY
-https://github.com/Guru006-Dev/react-assignments
+https://github.com/Guru006-Dev/react-math-assignments
+
+### DEPLOYED URL
+https://react-math-assignments.vercel.app/question-d
 
 ### PROJECT LOCATION
 `c:\Users\Guru\Desktop\Full Stack\React_project`
@@ -772,20 +478,36 @@ const [waitingForOperand, setWaitingForOperand] = useState(false);
 ```
 
 ### KEY FEATURES
-- Full arithmetic operations
-- Decimal point support
-- Sign toggle for negative numbers
-- Clear (AC) functionality
-- Modulo operation
-- Chain calculations
-- Responsive button grid
-- Professional calculator design
+
+| Category | Features |
+|----------|----------|
+| **Operations** | Addition, Subtraction, Multiplication, Division, Modulo |
+| **Number Support** | Integers, Decimals, Negative numbers |
+| **Special Functions** | Clear (AC), Sign Toggle (+/-) |
+| **Advanced** | Chain calculations, Operation chaining |
+| **UI/UX** | Responsive grid layout, Professional design |
+
+### TEST CASES
+
+| Calculation | Expected Result |
+|-------------|----------------|
+| 5 + 3 | 8 |
+| 10 - 7 | 3 |
+| 6 × 4 | 24 |
+| 15 ÷ 3 | 5 |
+| 17 % 5 | 2 |
+| 2.5 + 3.7 | 6.2 |
+| 8 ÷ 0 | Error (prevented) |
 
 ### EDGE CASES HANDLED
-- Division by zero prevention
-- Multiple decimal points prevention
-- Proper operation chaining
-- Display overflow handling
+
+| Case | Handling |
+|------|----------|
+| Division by Zero | ✅ Prevents operation, returns 0 |
+| Multiple Decimals | ✅ Ignores additional decimal points |
+| Operation Chaining | ✅ Continues calculation with result |
+| Display Overflow | ✅ Handles large numbers |
+| Invalid Input | ✅ Resets to valid state |
 
 ### RESULT
 Successfully implemented a fully functional calculator in ReactJS with professional UI and comprehensive operation support.
@@ -794,13 +516,16 @@ Successfully implemented a fully functional calculator in ReactJS with professio
 
 <div style="page-break-after: always;"></div>
 
-## EX.NO: 12 - KIDS CALCULATOR GAME
+## EX.NO: 5 - KIDS CALCULATOR GAME
 
 ### AIM
 Create a calculator program with the addition of game concepts for kids, making math learning fun and engaging through gamification.
 
 ### GITHUB REPOSITORY
-https://github.com/Guru006-Dev/react-assignments
+https://github.com/Guru006-Dev/react-math-assignments
+
+### DEPLOYED URL
+https://react-math-assignments.vercel.app/question-ef
 
 ### PROJECT LOCATION
 `c:\Users\Guru\Desktop\Full Stack\React_project`
@@ -894,26 +619,33 @@ Streak = Streak + 1
 
 ### KEY FEATURES
 
-**Calculator Functions:**
-- All basic arithmetic operations
-- Decimal support
-- Clear and reset functions
+| Category | Features |
+|----------|----------|
+| **Calculator** | All arithmetic operations, Decimal support, Clear & Reset |
+| **Scoring** | Real-time score tracking, Points based on calculation magnitude |
+| **Progression** | Streak counter, Progressive emoji rewards, Total calculations |
+| **Feedback** | Celebration animations, Random encouragement messages |
+| **Education** | Fun math practice, Positive reinforcement, Confidence building |
 
-**Game Features:**
-- Real-time score tracking
-- Streak system with visual feedback
-- Progressive emoji rewards
-- Celebration animations
-- Random encouragement messages
-- Total calculations counter
-- Reset game functionality
+### EDUCATIONAL BENEFITS
 
-**Educational Benefits:**
-- Makes math practice fun
-- Positive reinforcement
-- Visual progress tracking
-- Encourages repeated practice
-- Builds confidence through rewards
+| Benefit | How It Helps |
+|---------|-------------|
+| **Engagement** | Makes math practice fun and interactive |
+| **Motivation** | Positive reinforcement through rewards |
+| **Progress** | Visual tracking of improvements |
+| **Practice** | Encourages repeated calculations |
+| **Confidence** | Builds self-esteem through achievements |
+
+### GAME MECHANICS SUMMARY
+
+| Mechanic | Purpose | Implementation |
+|----------|---------|----------------|
+| **Score** | Track performance | +10-50 points per calculation |
+| **Streak** | Encourage consistency | Increments with each = press |
+| **Emojis** | Visual rewards | Changes based on streak level |
+| **Messages** | Positive feedback | Random selection from 8 options |
+| **Animation** | Celebration | 1.5s pulse effect |
 
 ### GAME INTERFACE LAYOUT
 ```
@@ -934,11 +666,14 @@ Streak = Streak + 1
 ```
 
 ### CELEBRATION ANIMATION
-- Triggers on each calculation completion
-- 1.5-second duration
-- Pulse animation on emoji
-- Random encouraging message display
-- Smooth fade-in/fade-out
+
+| Property | Value |
+|----------|-------|
+| **Trigger** | On calculation completion (= button) |
+| **Duration** | 1.5 seconds |
+| **Effect** | Pulse animation on emoji |
+| **Message** | Random encouragement phrase |
+| **Transition** | Smooth fade-in / fade-out |
 
 ### RESULT
 Successfully created an educational kids calculator game that combines mathematical operations with engaging game mechanics, making learning fun and rewarding for children.
@@ -949,39 +684,36 @@ Successfully created an educational kids calculator game that combines mathemati
 
 ## CONCLUSION
 
-This lab manual documents **12 comprehensive experiments** covering:
+This lab manual documents **5 comprehensive ReactJS experiments** demonstrating advanced React concepts and practical applications:
 
-### HTML & CSS (2 Experiments)
-- Diet form design
-- Professional portfolio website
-
-### ReactJS Fundamentals (10 Experiments)
-- Natural numbers display
-- Armstrong number checker
-- Factorial calculator
-- Greatest of three numbers
-- 4-box ball game
-- Mathematical operations (Factorial, Fibonacci, Prime)
-- Sum of digits calculator
-- Question paper selector (Function & Class components)
-- Basic calculator
-- Kids calculator game
+### ReactJS Experiments (All 5)
+1. Mathematical operations (Factorial, Fibonacci, Prime checking)
+2. Sum of digits calculator
+3. Question paper selector (Function & Class components)
+4. Basic calculator
+5. Kids calculator game (with gamification)
 
 ### Skills Demonstrated
 ✅ **React Concepts:** Components, Hooks, State Management, Props, Event Handling  
+✅ **Component Types:** Both Function Components (modern) and Class Components (traditional)  
 ✅ **JavaScript:** ES6+ syntax, Array methods, Mathematical algorithms  
 ✅ **CSS:** Responsive design, Animations, Glassmorphism, Grid layouts  
-✅ **HTML:** Forms, Semantic elements, Accessibility  
 ✅ **Problem Solving:** Algorithms for factorial, Fibonacci, prime checking  
 ✅ **UI/UX Design:** Modern interfaces, User experience, Gamification  
+✅ **Deployment:** GitHub version control, Vercel hosting
 
 ### Technologies Mastered
 - React 18.2 with Hooks
-- Vite build tool
 - React Router for navigation
+- Vite build tool
 - Modern CSS3 with animations
 - Component architecture
 - State management patterns
+
+### Project Deployment
+- **GitHub Repository:** https://github.com/Guru006-Dev/react-math-assignments
+- **Live Application:** https://react-math-assignments.vercel.app/
+- All components deployed and accessible online
 
 ---
 
