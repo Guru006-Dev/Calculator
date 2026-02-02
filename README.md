@@ -1,6 +1,6 @@
-# ReactJS Assignment - 5 Separate Questions
 
-This project contains 5 separate React components demonstrating various programming concepts and techniques.
+
+
 
 ## 📋 Questions Implemented
 
